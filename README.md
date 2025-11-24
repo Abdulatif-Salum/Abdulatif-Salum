@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulatif Salum</h1>
 <h3 align="center">A passionate software developer from Tanzania</h3>
 
-- 🤝 I’m looking for help with **Backend Dev**
 
 - 📫 How to reach me **abdulatifsalum97@gmail.com**
 
