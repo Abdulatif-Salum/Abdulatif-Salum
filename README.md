@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdulatif Salum</h1>
-<h3 align="center">A passionate software developer from Tanzania</h3>
+<h3 align="center">👨‍💻 Full-Stack Developer | Tech Enthusiast | Problem Solver</h3>
+<h3 align="center">⚡ Crafting software from the heart of East Africa</h3>
 
 
-- 📫 How to reach me **abdulatifsalum97@gmail.com**
+- 📫 How to reach me **abdulatifmsalum@gmail.com**
 
-- ⚡ Fun fact **I can work on a team and with a team. And i also think i'm funny!😁**
+- ⚡ Fun fact **Great team player + thinks he's hilarious. Teammates have yet to file a complaint.😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
