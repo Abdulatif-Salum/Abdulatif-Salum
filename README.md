@@ -1,16 +1,44 @@
-<h1 align="center">Hi 👋, I'm Abdulatif Salum</h1>
-<h3 align="center">👨‍💻 Full-Stack Developer | Tech Enthusiast | Problem Solver</h3>
-<h3 align="center">⚡ Crafting software from the heart of East Africa</h3>
+# Hi 👋, I'm Abdulatif Salum
 
+### Software Engineer → AI Engineering
 
-- 📫 How to reach me **abdulatifmsalum@gmail.com**
+I build software from frontend interfaces to backend systems and infrastructure. I'm now exploring how to integrate AI into real-world applications, evaluate agent behavior, and build dependable AI-powered systems.
 
-- ⚡ Fun fact **Great team player + thinks he's hilarious. Teammates have yet to file a complaint.😁**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_abduls___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abduls___" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://asalum.com/"><strong>🌐 Portfolio</strong></a> ·
+  <a href="mailto:abdulatifmsalum@gmail.com">📧 Email</a> ·
+  <a href="https://instagram.com/_abduls___">📸 Instagram</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 🎯 What I'm Focused On
+
+- 🤖 **AI Engineering** — Integrating AI into existing software and building dependable agents.
+- 🧪 **Evaluation & Reliability** — Testing AI outputs, evaluating behavior, and improving results.
+- 🛠️ **Full-Stack Engineering** — Building useful applications, APIs, and backend systems.
+- ☁️ **Infrastructure & DevOps** — Learning deployment workflows, automation, and cloud infrastructure.
+
+### 🧰 Technologies I Work With
+
+**Languages:** TypeScript, JavaScript, Go, SQL
+
+**Frontend:** React, TanStack
+
+**Backend:** Node.js, Hono, PostgreSQL
+
+**Infrastructure & Tools:** Git, Docker, GitHub Actions, Cloudflare
+
+### 🚀 Featured Work
+
+Explore my portfolio for selected projects, implementations, and engineering work.
+
+👉 **[asalum.com](https://asalum.com/)**
+
+### 📚 Currently Learning
+
+AI engineering, agent evaluation, context engineering, and harness engineering — with a focus on making AI systems more reliable in real-world applications.
+
+---
+
+⚡ Fun fact: Great team player. Thinks he's hilarious. Teammates have yet to file a complaint. 😁
